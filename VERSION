@@ -1,0 +1,15 @@
+commit 1ce505cdfdd6e7a00da0b8bdd237ae7193375a61
+Author: Emmett Lalish <elalish@google.com>
+Date:   Tue Nov 2 12:33:49 2021 -0700
+
+    added Huawei P30 to automation (#2955)
+    
+    * Revert "switch back to WebGL1Renderer (#2936)"
+    
+    This reverts commit 0e937fb7c406cfd9e0386dffb333d4f06d2f577e.
+    
+    * added Huawei P30 to automation
+    
+    * update AR specs
+    
+    * fix another test
