@@ -13,8 +13,7 @@
  * limitations under the License.
  */
 
-import {property} from 'lit-element';
-import {UpdatingElement} from 'lit-element/lib/updating-element';
+import {property, UpdatingElement} from 'lit-element';
 import {Event as ThreeEvent, Vector3} from 'three';
 
 import {HAS_INTERSECTION_OBSERVER, HAS_RESIZE_OBSERVER} from './constants.js';
